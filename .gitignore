@@ -4,3 +4,7 @@ node_modules
 public
 src/images
 server/.env
+.cache
+yarn.lock
+src/Resources
+ 
